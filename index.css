@@ -17,7 +17,7 @@ body{
     align-items: center;
     text-align: center;
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 0 15px 20px 5px rgb(209, 208, 208);
+    box-shadow: 0 15px 20px 5px rgb(8 74 102 / 13%);
 }
 
 .qrImage{
